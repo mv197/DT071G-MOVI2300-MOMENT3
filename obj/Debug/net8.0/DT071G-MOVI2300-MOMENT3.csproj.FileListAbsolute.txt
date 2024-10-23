@@ -1,0 +1,14 @@
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/bin/Debug/net8.0/DT071G-MOVI2300-MOMENT3
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/bin/Debug/net8.0/DT071G-MOVI2300-MOMENT3.deps.json
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/bin/Debug/net8.0/DT071G-MOVI2300-MOMENT3.runtimeconfig.json
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/bin/Debug/net8.0/DT071G-MOVI2300-MOMENT3.dll
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/bin/Debug/net8.0/DT071G-MOVI2300-MOMENT3.pdb
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/DT071G-MOVI2300-MOMENT3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/DT071G-MOVI2300-MOMENT3.AssemblyInfoInputs.cache
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/DT071G-MOVI2300-MOMENT3.AssemblyInfo.cs
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/DT071G-MOVI2300-MOMENT3.csproj.CoreCompileInputs.cache
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/DT071G-MOVI2300-MOMENT3.dll
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/refint/DT071G-MOVI2300-MOMENT3.dll
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/DT071G-MOVI2300-MOMENT3.pdb
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/DT071G-MOVI2300-MOMENT3.genruntimeconfig.cache
+/Users/skola/Desktop/C#/DT071G-MOVI2300-MOMENT3/obj/Debug/net8.0/ref/DT071G-MOVI2300-MOMENT3.dll
