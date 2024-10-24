@@ -19,6 +19,7 @@ namespace Log
                 {
                     //Läser inmatning från användaren för att skapa en logg av denna 
                     case '1':
+                        guestbook.VisaGästbok();    //Rensar och skriver ut gästboken i konsolen
                         Console.Write("Ange namn och meddelande i formatet 'Namn - Meddelande': ");
                         string namnOchMeddelande = Console.ReadLine()!; //Skapaer en variabel av användarens inmatning
 
@@ -39,6 +40,7 @@ namespace Log
 
                     //Läser inmatning från användaren för att redera vald logg från gästboken
                     case '2':  
+                        guestbook.VisaGästbok();    //Rensar och skriver ut gästboken i konsolen
                         Console.Write("Ange index för att redera logg: ");
                         string index = Console.ReadLine()!;
 
